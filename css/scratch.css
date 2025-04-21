@@ -1,0 +1,31 @@
+.bodystuff {
+    list-style-position: inside;
+font-family: 'Times New Roman', Times, serif;
+margin: 20px;
+text-align: center;
+}
+.imgstyle {
+    width: 20%;
+    max-height: 200px;
+}
+
+.ol {
+    text-align: left;
+}
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.centered-heading {
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 30px;
+}
+
+.backgroundc {
+    background-color: gray;
+}
